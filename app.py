@@ -2,6 +2,8 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 
+st.set_page_config(page_title='Comands',layout='wide', initial_sidebar_state='expanded' )
+
 st.title('Proyecto para explicar todos los comandos.')
 st.markdown('- Display text') # see *
 
