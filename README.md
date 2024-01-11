@@ -3,3 +3,13 @@
 ```bash
 python -m venv vEnv
 ```
+
+# Instalar Streamlit:
+```bash
+pip install streamlit-nightly --upgrade
+```
+
+# Ejecutar proyecto
+```bash
+streamlit run app.py
+```
